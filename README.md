@@ -1,4 +1,5 @@
 ![readme image](readme image.jpg)
+![alt text](<readme image.jpg>)
 
 # FLUX.1 Image Generation
 
