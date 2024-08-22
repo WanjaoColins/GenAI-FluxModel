@@ -56,7 +56,7 @@ To generate images using the FLUX.1 model, follow these steps:
 For any questions or support, please contact:
 
 - **Author**: [Colins Wanjao]
-- **Email**: [your-email@example.com](mailto:Colins.Wanjao@outlook.com)
+- **Email**: [Colins.Wanjao@outlook.com](mailto:Colins.Wanjao@outlook.com)
 
 ---
 
